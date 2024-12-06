@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <div>
- 
+    <div> 
     </div>
 </body>
 </html>
